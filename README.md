@@ -1,6 +1,6 @@
 # 🛣️ Deep Learning-Based Lane Detection for Autonomous Driving
 
-A deep learning project focused on detecting car lane boundaries in real-time from video input, trained on the **CurveLanes** dataset. The system uses convolutional neural networks for robust detection of both straight and curved lanes, contributing to the perception stack of autonomous vehicles.
+A deep learning project focused on detecting car lane boundaries in real-time from video input, trained on the **TuSimple** dataset. The system uses convolutional neural networks for robust detection of both straight and curved lanes, contributing to the perception stack of autonomous vehicles.
 
 ---
 
